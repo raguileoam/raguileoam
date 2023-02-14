@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋!, I'm Aliwen Melillán</h1>
+<h3 align="center">Fullstack developer :chile: </h3>
+
+### 📖 About me.
+- :mortar_board:  I'm Civil Computer Engineer at Universidad de la Frontera. Also, I have a minor in entrepreneurship.
+- 📚 I'm currently finishing a Master in Computer Engineering.
+- 🛠️ I have worked as a backend developer with Spring Boot (Java) and as a frontend developer with Vue.js (Javascript). Also i have worked with data science/AI tools in python (numpy, matplotlib, spacy, fastai). Other tools I have used: MariaDB, Postgres, Docker, Gitlab CI/CD, AWS EC2, AWS S3.
+- 🌱 I’m currently learning React, Typescript and Next.
+
 
 <!--
 **raguileoam/raguileoam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
